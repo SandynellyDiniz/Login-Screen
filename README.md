@@ -1,4 +1,4 @@
-<h2>Login Screen 🍂</h2>
+<h2>Login Screen 👤</h2>
 
 <h3 align="center">Technologies used:<h3>
 <ul align="center">
